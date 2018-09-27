@@ -1,0 +1,18 @@
+{
+  "name": "udeepminer",
+  "version": "1.0.3",
+  "description": "optimized deepminer",
+  "repository": "https://github.com/perimetral/uDeepMiner",
+  "main": "server.js",
+  "dependencies": {
+    "pm2": "*",
+    "ws": "*",
+    "express": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "perimetral",
+  "license": "MIT"
+}
